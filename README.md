@@ -70,6 +70,9 @@ Reasoning: Carbon capture and storage can play a crucial role in reducing emissi
 
 6) International Collaboration: Countries and regions should collaborate on sharing best practices, technologies, and policies related to CO2 emissions reduction. This can accelerate the global transition to a low-carbon economy.
 
+A direct link for the notebook
+
+https://colab.research.google.com/drive/1G5VSmPKuvlpmIbv8XGqF3ZoMP_fE6Yxz?usp=drive_link
 THANK YOU
 
 THE END
